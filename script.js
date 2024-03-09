@@ -118,6 +118,6 @@ function getMessage() {
     } else if (score < 20) {
         return "You're getting good at this!";
     } else {
-        return "Wow, you're a FaceBomp champion!";
+        return "Wow, you're a Whacking champion!";
     }
 }

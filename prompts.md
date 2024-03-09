@@ -1,6 +1,6 @@
 ## Prompt 1
 I want to build a game similar to Whack-A-Mole using HTML, CSS, and JavaScript. 
-The game is called "FaceBomp," where players click on popping-up photos to earn points. 
+The game is called "Whack a Mole," where players click on popping-up photos to earn points. 
 
 Let's start with the HTML only, which should link to CSS and JS files:
 * Display the game's title.
